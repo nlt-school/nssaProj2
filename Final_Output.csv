@@ -1,0 +1,56 @@
+Node 1
+Echo Requests Sent	Echo Requests Received	Echo Replies Sent	Echo Replies Received
+128	49	49	128
+Echo Request Bytes Sent (bytes)	Echo Request Data Sent (bytes)
+89452	85868
+Echo Request Bytes Received (bytes)	Echo Request Data Received (bytes)
+51904	50532
+
+Average RTT (milliseconds)	29862.030265306126
+Echo Request Throughput (kB/sec)	0.10257776986918304
+Echo Request Goodput (kB/sec)	0.09846787040118735
+Average Reply Delay (microseconds)	29862030.265306126
+Average Echo Request Hop Count	0.0
+
+Node 2
+Echo Requests Sent	Echo Requests Received	Echo Replies Sent	Echo Replies Received
+82	160	160	82
+Echo Request Bytes Sent (bytes)	Echo Request Data Sent (bytes)
+53040	50744
+Echo Request Bytes Received (bytes)	Echo Request Data Received (bytes)
+113816	109336
+
+Average RTT (milliseconds)	7624.643511363635
+Echo Request Throughput (kB/sec)	0.07016175803431651
+Echo Request Goodput (kB/sec)	0.06712458992634535
+Average Reply Delay (microseconds)	7624643.511363636
+Average Echo Request Hop Count	0.0
+
+Node 3
+Echo Requests Sent	Echo Requests Received	Echo Replies Sent	Echo Replies Received
+72	98	98	72
+Echo Request Bytes Sent (bytes)	Echo Request Data Sent (bytes)
+53070	51054
+Echo Request Bytes Received (bytes)	Echo Request Data Received (bytes)
+62908	60164
+
+Average RTT (milliseconds)	76980.73810084033
+Echo Request Throughput (kB/sec)	0.07545643273863539
+Echo Request Goodput (kB/sec)	0.07259002670130567
+Average Reply Delay (microseconds)	76980738.10084033
+Average Echo Request Hop Count	0.0
+
+Node 4
+Echo Requests Sent	Echo Requests Received	Echo Replies Sent	Echo Replies Received
+108	86	86	108
+Echo Request Bytes Sent (bytes)	Echo Request Data Sent (bytes)
+75232	72208
+Echo Request Bytes Received (bytes)	Echo Request Data Received (bytes)
+42388	39980
+
+Average RTT (milliseconds)	26854.16465986393
+Echo Request Throughput (kB/sec)	0.11248005113904426
+Echo Request Goodput (kB/sec)	0.10795884108687936
+Average Reply Delay (microseconds)	26854164.65986393
+Average Echo Request Hop Count	0.0
+

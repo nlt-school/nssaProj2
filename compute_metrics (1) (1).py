@@ -79,7 +79,7 @@ def process_files(file_paths, node_ips):
     return results
 
 if __name__ == "__main__":
-    file_paths = ["Node1_parsed.csv", "Node2_parsed.csv", "Node3_parsed.csv", "Node4_parsed.csv"]
+    file_paths = ["parsed/Node1_parsed.csv", "parsed/Node2_parsed.csv", "parsed/Node3_parsed.csv", "parsed/Node4_parsed.csv"]
     node_ips = ["192.168.100.1", "192.168.100.2", "192.168.200.1", "192.168.200.2"]
 
     metrics = process_files(file_paths, node_ips)
